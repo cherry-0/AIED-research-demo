@@ -29,3 +29,6 @@ cd AIED-research-demo
 ```
 ./start.sh
 ```
+아래 그림과 같이 웹 브라우저 링크가 뜨면 URL을 클릭해서 접속하시면 됩니다. 
+![Alt text](image.png)
+
