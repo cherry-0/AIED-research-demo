@@ -1,9 +1,11 @@
 import streamlit as st
-st.title("2차시")
+st.header("2차시")
 
 
-"### orange 소프트웨어 배우기" 
-"#### 사진"
+"### 활동 3. orange 소프트웨어 배우기" 
+
+st.image("images/orange3intro.png", use_column_width=True)
+         
 "#### 참고 영상 "
 
 "### orange 열기 버튼"
