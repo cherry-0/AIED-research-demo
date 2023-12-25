@@ -33,3 +33,7 @@ cd AIED-research-demo
 ![Alt text](./images/example_image.png)
 
 혹시 에러가 생긴다면 Issues 탭에 에러 메세지 전체를 올려 주시면 빠르게 조치하겠습니다!
+
+
+### Proceeding full text:
+https://github.com/cherry-0/Streamlit-Orange-demo 
