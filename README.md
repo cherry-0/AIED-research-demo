@@ -30,6 +30,6 @@ cd AIED-research-demo
 ./start.sh
 ```
 아래 그림과 같이 웹 브라우저 링크가 뜨면 URL을 클릭해서 접속하시면 됩니다. 
-![Alt text](image.png)
+![Alt text](./images/example_image.png)
 
 혹시 에러가 생긴다면 Issues 탭에 에러 메세지 전체를 올려 주시면 빠르게 조치하겠습니다!
