@@ -1,4 +1,6 @@
 import streamlit as st
+import os
+
 st.header("3차시")
 
 "### 활동 4. 새로운 테스트 데이터셋을 분류해 보기"
