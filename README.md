@@ -1,5 +1,34 @@
 # AIED-research demo page
 
+### 페이지 미리보기
+
+
+![Alt text](images/intro.png)
+
+#### [1차시]
+![Alt text](images/1-1.png)
+
+![Alt text](images/1-2.png)
+
+![Alt text](images/1-3.png)
+
+#### [2차시]
+![Alt text](images/2-1.png)
+
+![Alt text](images/2-2.png)
+
+![Alt text](images/2-3.png)
+
+![Alt text](images/2-4.png)
+
+#### [3차시]
+
+![Alt text](images/3-1.png)
+
+![Alt text](images/3-2.png)
+
+![Alt text](images/3-3.png)
+
 ### 실행 전 확인!
 
 사용할 개인 pc는 conda 가 설치되어 있어야 합니다. 
@@ -39,31 +68,3 @@ cd AIED-research-demo
 https://github.com/cherry-0/Streamlit-Orange-demo 
 
 
-### 페이지 미리보기
-
-
-![Alt text](images/intro.png)
-
-#### [1차시]
-![Alt text](images/1-1.png)
-
-![Alt text](images/1-2.png)
-
-![Alt text](images/1-3.png)
-
-#### [2차시]
-![Alt text](images/2-1.png)
-
-![Alt text](images/2-2.png)
-
-![Alt text](images/2-3.png)
-
-![Alt text](images/2-4.png)
-
-#### [3차시]
-
-![Alt text](images/3-1.png)
-
-![Alt text](images/3-2.png)
-
-![Alt text](images/3-3.png)
