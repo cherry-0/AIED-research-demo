@@ -11,7 +11,7 @@ conda 설치 유무 확인:
 ```
 conda --version
 ```
-conda 22.9.0 처럼 버전이 출력되면 설치되어 있는 것입니다.
+conda 22.9.0 과 같이 버전이 출력되면 설치되어 있는 것입니다.
 
 > 
 ### 빠르게 실행하기
@@ -37,3 +37,33 @@ cd AIED-research-demo
 
 ### Proceeding full text:
 https://github.com/cherry-0/Streamlit-Orange-demo 
+
+
+### 페이지 미리보기
+
+
+![Alt text](images/intro.png)
+
+#### [1차시]
+![Alt text](images/1-1.png)
+
+![Alt text](images/1-2.png)
+
+![Alt text](images/1-3.png)
+
+#### [2차시]
+![Alt text](images/2-1.png)
+
+![Alt text](images/2-2.png)
+
+![Alt text](images/2-3.png)
+
+![Alt text](images/2-4.png)
+
+#### [3차시]
+
+![Alt text](images/3-1.png)
+
+![Alt text](images/3-2.png)
+
+![Alt text](images/3-3.png)
